@@ -14,22 +14,22 @@
 .icons {
   display: flex;
   font-size: 30px;
-  margin: 16px;
+  margin: 15px;
 }
 
 .insta {
-  margin-left: 60px;
-  margin-right: 10px;
+  margin-left: 35.5px;
+  padding-right: 20px;
 }
 .face {
-  margin-right: 10px;
+  padding-right: 20px;
 }
 .git {
-  margin-right: 10px;
+  margin-right: 35.5px;
 }
 .link {
-  margin-right: 10px;
+  padding-right: 20px;
 }
 .twit {
-  margin-right: 10px;
+  padding-right: 20px;
 }
